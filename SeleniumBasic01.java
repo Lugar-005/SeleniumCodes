@@ -31,7 +31,7 @@ public class SeleniumBasic01 {
 	
 // also we can write all of this method in a single vode also
 		amazon.findElement(By.id("twotabsearchtextbox")).sendKeys("iphone"+Keys.ENTER);
-		                                                                   //we cam access every keyboard button from using Keys.
+		                                                                   //we can access every keyboard button from using Keys.
 //
 		
 		}
